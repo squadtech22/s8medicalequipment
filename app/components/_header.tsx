@@ -26,6 +26,9 @@ export default function Header() {
                     <b>Contact us:</b> +1 (510)-573-1931
                   </p>
                   <p className="flex justify-center md:justify-start gap-1">
+                    <b>Complaint Number:</b> +1 (510) 925-2257
+                  </p>
+                  <p className="flex justify-center md:justify-start gap-1">
                     <b>Email:</b> info@s8medicalequipmentllc.com
                   </p>
                 </div>

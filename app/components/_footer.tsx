@@ -148,6 +148,9 @@ export default function Footer() {
             <p>
               <b>Sat:</b> 9:00 – 15:00
             </p>
+            <p>
+              <b>Complaint Number:</b> +1 (510) 925-2257
+            </p>
           </div>
         </div>
 

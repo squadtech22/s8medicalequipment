@@ -108,6 +108,9 @@ export default function Services() {
               24/7, for prompt assistance and dependable support whenever you
               need it.
             </p>
+            <p className="text-sm md:text-base">
+              <b>Complaint Number:</b> +1 (510) 925-2257
+            </p>
           </div>
         </div>
       </section>
