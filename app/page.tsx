@@ -162,11 +162,11 @@ export default function Home() {
             <ul className="divide-y-2 divide-[#65AD47]/50">
               <li className="flex items-center justify-between font-bold py-3">
                 <p>Monday - Friday</p>
-                <p>8.00-18.00</p>
+                <p>9.00-15.00</p>
               </li>
               <li className="flex items-center justify-between font-bold py-3">
                 <p>Saturday</p>
-                <p>9.00-17.00</p>
+                <p>9.00-15.00</p>
               </li>
               <li className="flex items-center justify-between font-bold py-3">
                 <p>Sunday</p>

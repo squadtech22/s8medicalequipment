@@ -140,13 +140,13 @@ export default function Footer() {
           </address>
           <div className="text-sm space-y-1">
             <p>
-              <b>Mon-Thu:</b> 9:30 – 21:00
+              <b>Mon-Thu:</b> 9:00 – 15:00
             </p>
             <p>
-              <b>Fri:</b> 6:00 – 21:00
+              <b>Fri:</b> 9:00 – 15:00
             </p>
             <p>
-              <b>Sat:</b> 10:00 – 15:00
+              <b>Sat:</b> 9:00 – 15:00
             </p>
           </div>
         </div>
